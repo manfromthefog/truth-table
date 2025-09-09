@@ -1,5 +1,5 @@
 # truth-table-calculator
-A truth table calculator. That's as much as I can do.
+A truth table. The GUI doesn't even exist yet.
 
 # Inputs
 AND -> and (^)<br/>
