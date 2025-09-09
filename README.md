@@ -13,10 +13,10 @@ A GUI is unfortunately unavailable for now.
 
 # Examples of Valid Inputs for n = 3
 
-((A AND B) IAOI C)
-((A OR B) AND ((NOT A) IMP C))
-(A IMP (B OR C))
-((A AND A) OR B)
+((A AND B) IAOI C),
+((A OR B) AND ((NOT A) IMP C)),
+(A IMP (B OR C)),
+((A AND A) OR B),
 
 Even for simple inputs like "A implies B," input them surrounded by brackets.
 
