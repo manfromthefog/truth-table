@@ -16,7 +16,7 @@ A GUI is unfortunately unavailable for now.
 ((A AND B) IAOI C)<br/>
 ((A OR B) AND ((NOT A) IMP C))<br/>
 (A IMP (B OR C))<br/>
-((A AND A) OR B)<=
+((A AND A) OR B)
 
 Even for simple inputs like "A implies B," input them surrounded by brackets.
 
